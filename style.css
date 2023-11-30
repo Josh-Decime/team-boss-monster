@@ -9,10 +9,17 @@
 
 .player-card {
     background-color: #c6c8cf;
+    border-radius: 10%;
     border-style: solid;
     border-width: 5px;
     border-color: #3a3b40;
-    border-radius: 10%;
+    color: #3a3b40;
+}
+.style-card {
+    background-color: #c6c8cf;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #3a3b40;
     color: #3a3b40;
 }
 
