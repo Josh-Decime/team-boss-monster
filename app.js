@@ -70,3 +70,11 @@ function gameOverCheck() {
         window.alert('DUDE THIS GAME WAS SUPPOSED TO BE EASY WTF')
     }
 }
+
+// function playerStats() {
+//     let template = ''
+//     heroArr.forEach(player => {
+//         if(player)
+//     })
+// }
+
